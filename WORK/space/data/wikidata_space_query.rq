@@ -1,0 +1,29 @@
+# Фрагмент знаний для раздела "Космос".
+# Запрос можно выполнить в https://query.wikidata.org/
+
+SELECT DISTINCT ?item ?itemLabel ?itemDescription ?type ?typeLabel WHERE {
+  VALUES ?item {
+    wd:Q107     # outer space
+    wd:Q1       # Universe
+    wd:Q318     # galaxy
+    wd:Q523     # star
+    wd:Q525     # Sun
+    wd:Q634     # planet
+    wd:Q2       # Earth
+    wd:Q405     # Moon
+    wd:Q544     # Solar System
+    wd:Q4130    # orbit
+    wd:Q3559    # comet
+    wd:Q3863    # asteroid
+    wd:Q60186   # meteorite
+    wd:Q40218   # spacecraft
+    wd:Q11631   # astronaut/cosmonaut
+  }
+
+  OPTIONAL { ?item wdt:P31 ?type. }
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "ru,en".
+  }
+}
+ORDER BY ?itemLabel
