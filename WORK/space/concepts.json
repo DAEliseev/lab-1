@@ -1,0 +1,122 @@
+[
+  {
+    "id": "space",
+    "title": "Космос",
+    "file": "space.md",
+    "wikidata": "Q107",
+    "dbpedia": "http://dbpedia.org/resource/Outer_space",
+    "aliases": ["космос", "космоса", "космосе", "космосом"]
+  },
+  {
+    "id": "universe",
+    "title": "Вселенная",
+    "file": "universe.md",
+    "wikidata": "Q1",
+    "dbpedia": "http://dbpedia.org/resource/Universe",
+    "aliases": ["вселенная", "вселенной", "вселенную"]
+  },
+  {
+    "id": "galaxy",
+    "title": "Галактика",
+    "file": "galaxy.md",
+    "wikidata": "Q318",
+    "dbpedia": "http://dbpedia.org/resource/Galaxy",
+    "aliases": ["галактика", "галактики", "галактике", "галактику"]
+  },
+  {
+    "id": "star",
+    "title": "Звезда",
+    "file": "star.md",
+    "wikidata": "Q523",
+    "dbpedia": "http://dbpedia.org/resource/Star",
+    "aliases": ["звезда", "звезды", "звезде", "звезду", "звездой", "звездах"]
+  },
+  {
+    "id": "sun",
+    "title": "Солнце",
+    "file": "sun.md",
+    "wikidata": "Q525",
+    "dbpedia": "http://dbpedia.org/resource/Sun",
+    "aliases": ["солнце", "солнца", "солнцу", "солнцем"]
+  },
+  {
+    "id": "planet",
+    "title": "Планета",
+    "file": "planet.md",
+    "wikidata": "Q634",
+    "dbpedia": "http://dbpedia.org/resource/Planet",
+    "aliases": ["планета", "планеты", "планете", "планету", "планетой", "планетах"]
+  },
+  {
+    "id": "earth",
+    "title": "Земля",
+    "file": "earth.md",
+    "wikidata": "Q2",
+    "dbpedia": "http://dbpedia.org/resource/Earth",
+    "aliases": ["земля", "земли", "земле", "землю", "землей"]
+  },
+  {
+    "id": "moon",
+    "title": "Луна",
+    "file": "moon.md",
+    "wikidata": "Q405",
+    "dbpedia": "http://dbpedia.org/resource/Moon",
+    "aliases": ["луна", "луны", "луне", "луну", "луной"]
+  },
+  {
+    "id": "solar_system",
+    "title": "Солнечная система",
+    "file": "solar_system.md",
+    "wikidata": "Q544",
+    "dbpedia": "http://dbpedia.org/resource/Solar_System",
+    "aliases": ["солнечная система", "солнечной системы", "солнечную систему", "солнечной системе"]
+  },
+  {
+    "id": "orbit",
+    "title": "Орбита",
+    "file": "orbit.md",
+    "wikidata": "Q4130",
+    "dbpedia": "http://dbpedia.org/resource/Orbit",
+    "aliases": ["орбита", "орбиты", "орбите", "орбиту", "орбитой", "орбитах"]
+  },
+  {
+    "id": "comet",
+    "title": "Комета",
+    "file": "comet.md",
+    "wikidata": "Q3559",
+    "dbpedia": "http://dbpedia.org/resource/Comet",
+    "aliases": ["комета", "кометы", "комете", "комету", "кометой"]
+  },
+  {
+    "id": "asteroid",
+    "title": "Астероид",
+    "file": "asteroid.md",
+    "wikidata": "Q3863",
+    "dbpedia": "http://dbpedia.org/resource/Asteroid",
+    "aliases": ["астероид", "астероида", "астероиду", "астероидом", "астероиды", "астероидах"]
+  },
+  {
+    "id": "meteorite",
+    "title": "Метеорит",
+    "file": "meteorite.md",
+    "wikidata": "Q60186",
+    "dbpedia": "http://dbpedia.org/resource/Meteorite",
+    "aliases": ["метеорит", "метеорита", "метеориту", "метеоритом", "метеориты"]
+  },
+  {
+    "id": "spacecraft",
+    "title": "Космический корабль",
+    "file": "spacecraft.md",
+    "wikidata": "Q40218",
+    "dbpedia": "http://dbpedia.org/resource/Spacecraft",
+    "aliases": ["космический корабль", "космического корабля", "космическому кораблю", "космическим кораблем", "космические корабли"]
+  },
+  {
+    "id": "cosmonaut",
+    "title": "Космонавт",
+    "file": "cosmonaut.md",
+    "wikidata": "Q11631",
+    "dbpedia": "http://dbpedia.org/resource/Astronaut",
+    "aliases": ["космонавт", "космонавта", "космонавту", "космонавтом", "космонавты"]
+  }
+]
